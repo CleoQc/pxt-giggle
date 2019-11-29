@@ -1,2 +1,4 @@
 package-lock.json
 tsconfig.json
+pxt_modules/*
+built/*
